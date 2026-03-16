@@ -30,18 +30,11 @@
 
 ---
 
-### 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivaayc&theme=tokyo-night&hide_border=true&area=true" width="100%">
-</div>
-
----
 
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rahulchelani&theme=tokyonight&no-frame=true&row=1&column=7" width="100%">
+  <img src="https://github-profile-trophy.vercel.app/?username=shivaayctheme=tokyonight&no-frame=true&row=1&column=7" width="100%">
 </div>
 
 ---
@@ -49,12 +42,12 @@
 ### 📊 Detailed Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahulchelani&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shivaayc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulchelani&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulchelani&theme=tokyonight&hide_border=true" width="49%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivaayc&theme=tokyonight&hide_border=true" width="49%">
 </div>
 
 ---
