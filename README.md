@@ -12,11 +12,14 @@
 
 ### 🚀 About Me
 
--🔭 M.Tech Graduate specializing in **Industrial IoT & ML**
--📜 **Patent Filed**: Adaptive RL for IIoT Security
--🌱 Currently exploring **Edge ML & On-Device AI**
--💬 Ask me about **IoT, Embedded Systems, ML**
--⚡ Fun fact: Built a **IOT Products** from scratch!
+- 🔭 M.Tech Graduate specializing in **Industrial IoT & ML**
+- 🏆 Won **IIT Kanpur Techkriti** (Embedded Systems)
+- 📜 **Patent Filed**: Adaptive RL for IIoT Security
+- 👨‍🏫 Mentored **15+ teams** to IIT hackathon finals
+- 🌱 Currently exploring **Edge ML & On-Device AI**
+- 💬 Ask me about **IoT, Embedded Systems, ML**
+- ⚡ Fun fact: Built a **drone** from scratch!
+
 
 <br clear="right"/>
 
